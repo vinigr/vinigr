@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinigr.vinigr">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&lines=Hello%2C+there!;This+is+Vin%C3%ADcios+Grama">
@@ -15,8 +13,6 @@
   Hi, I'm Vinícios Grama, Software Developer from Brazil
   <br>
   🎓 I graduated in Information Systems at UniFTC
-  <br>
-  📚 I'm currently studying project patterns like clean architecture
   <br>
 </p>
 
@@ -41,5 +37,4 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=vinigr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
